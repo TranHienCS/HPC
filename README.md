@@ -7,11 +7,9 @@ Assignment Parallel Computing
 Association rules on Xeon-phi using OpenMP.
 
 ## Students:
-
-- 1610179 - Nguyen Le Chi Bao
-- 1612373 - Le Van Nhat
-- 1610132 - Dang Hoang An
-- 1611617 - Nguyen Anh Khoa
+	Trần Văn Hiển 1611097
+	Nguyễn Trọng Dư 1610569
+	Lưu Quang Thuận 1613426
 
 ## Build steps
 
